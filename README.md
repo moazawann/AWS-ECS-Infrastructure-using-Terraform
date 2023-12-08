@@ -30,13 +30,13 @@ aws s3 ls
 ## Clone the Repository
 
 ```bash
-  git clone https://github.com/moazawan2002/Ease-Assignment.git
+git clone https://github.com/moazawan2002/Ease-Assignment.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd Ease-Assignment
+cd Ease-Assignment
 ```
 ## 1. Create an ECR repository
 
