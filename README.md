@@ -1,5 +1,5 @@
 
-# Assignment: Junior DevOps Engineer
+# AWS ECS Infrastructure using Terraform
 
 Design and implement an automated infrastructure deployment using Terraform on AWS, utilizing ECS for container orchestration. Additionally, create a simple API and integrate it with the deployed nfrastructure.
 
